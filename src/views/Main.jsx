@@ -2,6 +2,10 @@ import React from 'react'
 import Navbar from "../components/Navbar";
 import Title from "../components/Title"
 import AboutMe from "../components/AboutMe"
+import Expertise from '../components/Expertise';
+import Projects from '../components/Projects';
+import ContactInfo from '../components/ContactInfo';
+
 
 const Main = () => {
   return (
@@ -9,6 +13,9 @@ const Main = () => {
       <Navbar/>
       <Title/>
       <AboutMe/>
+      <Expertise/>
+      <Projects/>
+      <ContactInfo/>
     </div>
   )
 }

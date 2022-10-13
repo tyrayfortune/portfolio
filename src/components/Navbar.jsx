@@ -3,11 +3,11 @@ import {Link} from "react-router-dom"
 import "./Component.css"
 const Navbar = () => {
   return (
-    <div >
+    <div id="navbar_container">
       <div className='navbar_alignment'>
-        <Link className="nav-link" to="/"> <h3 >Home</h3> </Link>
-        <Link className="nav-link" to="/"> <h3 >Home</h3> </Link>
-        <Link className="nav-link" to="/"> <h3 >Home</h3> </Link>
+        <a className="nav-link" href="#projects_container"><h4>Projects</h4></a>
+        <a className="nav-link" href="#expertise_container"><h4>Expertise</h4></a>
+        <a className="nav-link" href="#about_me_container"><h4>About Me</h4></a>
       </div>
     </div>
   )
