@@ -75,9 +75,9 @@
 
 .name{
   color: black;
-  /* letter-spacing: 100px; */
-  /* font-size: 100px; */
-  /* font-weight: 800; */
+  letter-spacing: 70px; 
+  font-size: 100px;
+   font-weight: 800;
 }
 
 /* for name change effect */
