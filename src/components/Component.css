@@ -75,9 +75,9 @@
 
 .name{
   color: black;
-  letter-spacing: 100px;
-  font-size: 100px;
-  font-weight: 800;
+  /* letter-spacing: 100px; */
+  /* font-size: 100px; */
+  /* font-weight: 800; */
 }
 
 /* for name change effect */
@@ -118,6 +118,7 @@
 #projects_container{
   background-color: #707070;
   padding-bottom: 40px;
+  padding-right: 10%;
 }
 
 .personal_projects_title{
