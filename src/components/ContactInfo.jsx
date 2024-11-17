@@ -1,7 +1,7 @@
 import React from 'react'
 import github_icon from '../images/github_icon.png'
 import linkedin_icon from '../images/linkedin_icon.png'
-import pdf_icon from '../images/pdf_icon.png'
+import resume_icon from '../images/resume_icon.png'
 
 const ContactInfo = () => {
   return (
@@ -25,7 +25,7 @@ const ContactInfo = () => {
                 <a href="https://www.linkedin.com/in/tyray-fortune/"><img className='social_images' src={linkedin_icon} alt="linkedin icon" /></a>
             </div>
             <div className='social_link'>
-                <a href="https://drive.google.com/file/d/18TObll24lQTd59dS3oxzxlfmkYQZKozW/view?usp=sharing"><img className='social_images' src={pdf_icon} alt="pdf icon" /></a>
+                <a href="https://drive.google.com/file/d/1M8SYPJaxy4QWqTvMwXgJVaagDs-RCkjn/view"><img className='social_images' src={resume_icon} alt="pdf icon" /></a>
             </div>
         </div>
     </div>
