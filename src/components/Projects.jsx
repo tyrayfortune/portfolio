@@ -1,7 +1,7 @@
 import React from 'react'
 import CA_img1 from '../images/CA_img1.jpg'
 import CA_img3 from '../images/CA_img3.jpg'
-import TCT_img1 from '../images/TCT_img1.jpg'
+import TCT_homepage from '../images/TCT_homepage.png'
 
 const Projects = () => {
   return (
@@ -11,7 +11,7 @@ const Projects = () => {
     <div class="row row-padding">
       <div class="column">
         <div className='image_div'>
-          <img className='project_images' src={TCT_img1} alt="Turbo Click Tracker Information" />
+          <img className='project_images' src={TCT_homepage} alt="Turbo Click Tracker Information" />
           {/* two classnames to get overlary + blur affect */}
           <div className='image_overlay image_overlay--blur'>
             <div className='image_title'>Turbo Click Tracker</div>
