@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8e6d5904.chunk.css",
-    "main.js": "/portfolio/static/js/main.30f3be84.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.30f3be84.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.ff4366f6.chunk.css",
+    "main.js": "/portfolio/static/js/main.4b35f3f6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4b35f3f6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.2f17cc2e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.2f17cc2e.js.map",
     "static/js/2.a0eb58e4.chunk.js": "/portfolio/static/js/2.a0eb58e4.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.cf1c5444.chunk.js": "/portfolio/static/js/3.cf1c5444.chunk.js",
     "static/js/3.cf1c5444.chunk.js.map": "/portfolio/static/js/3.cf1c5444.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.fcb3cd7047e45aee51fb68a8d903bd71.js": "/portfolio/precache-manifest.fcb3cd7047e45aee51fb68a8d903bd71.js",
+    "precache-manifest.9754b5cf72243749a4c0c3697a62c0d4.js": "/portfolio/precache-manifest.9754b5cf72243749a4c0c3697a62c0d4.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.8e6d5904.chunk.css.map": "/portfolio/static/css/main.8e6d5904.chunk.css.map",
+    "static/css/main.ff4366f6.chunk.css.map": "/portfolio/static/css/main.ff4366f6.chunk.css.map",
     "static/js/2.a0eb58e4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a0eb58e4.chunk.js.LICENSE.txt",
     "static/media/CA_img1.jpg": "/portfolio/static/media/CA_img1.cd42666d.jpg",
     "static/media/CA_img3.jpg": "/portfolio/static/media/CA_img3.e96039c6.jpg",
-    "static/media/TCT_img1.jpg": "/portfolio/static/media/TCT_img1.91e25b30.jpg",
+    "static/media/TCT_homepage.png": "/portfolio/static/media/TCT_homepage.30bd61e2.png",
     "static/media/Tyray.jpg": "/portfolio/static/media/Tyray.d68825e7.jpg",
     "static/media/jenkins_icon.png": "/portfolio/static/media/jenkins_icon.9914eb15.png",
     "static/media/jira_icon.jfif": "/portfolio/static/media/jira_icon.d18f8790.jfif",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.2f17cc2e.js",
     "static/js/2.a0eb58e4.chunk.js",
-    "static/css/main.8e6d5904.chunk.css",
-    "static/js/main.30f3be84.chunk.js"
+    "static/css/main.ff4366f6.chunk.css",
+    "static/js/main.4b35f3f6.chunk.js"
   ]
 }
